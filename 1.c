@@ -1,1 +1,9 @@
-this is one 1.c
+void Change_Password()
+{
+	return 0;
+}
+
+static int SetTo()
+{
+	return 0;
+}
